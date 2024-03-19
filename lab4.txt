@@ -1,0 +1,7 @@
+ping www.algonquincollege.com:64 bytes from ec2-54-86-119-60.compute-1.amazonaws.com (54.86.119.60): icmp_seq=1 ttl=49 time=27.8 ms
+
+ping localhost:64 bytes from localhost (127.0.0.1): icmp_seq=1
+ttl=64 time=0.049 ms
+
+ping 192.168.56.1:64 bytes from 192.168.56.1: icmp_seq=1 ttl=127
+time=1.95 ms
